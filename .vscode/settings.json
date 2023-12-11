@@ -1,0 +1,14 @@
+{
+  "css.customData": [
+    ".vscode/tailwind.json"
+  ],
+  "tailwindCSS.includeLanguages": {
+    "html": "html",
+    "javascript": "javascript",
+    "css": "css"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
