@@ -24,5 +24,3 @@ bun dev
 ---
 
 Inpisred by [astrostarter template](https://astrostarter.zank.studio/) and [TEENAGER ENGINEER](https://teenage.engineering/)
-
-
